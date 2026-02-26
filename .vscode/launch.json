@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DocflowBeApplication<docflow-be>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "it.docflow.DocflowBeApplication",
+            "projectName": "docflow-be",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
